@@ -4,9 +4,8 @@
   i=0
  while collection.length > i
    yield (collection[i])
-   i = i +1 
+   i = i +1
  end
 
-collection 
+collection
 end
-
